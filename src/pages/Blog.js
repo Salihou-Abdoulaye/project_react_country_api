@@ -86,7 +86,7 @@ const Blog = () => {
 
                 {/* Ceci veut dire que si error === true sa affice le message d'erreur */}
                 {error && <p>Veuillez ecrire au moins 140 caractères</p>}
-                <input type="submit" value="Envoyer" />
+                <input type="submit" value="Envoyer"/>
             </form>
             <ul>{blogData
                 .sort((a,b) =>(b.date - a.date))

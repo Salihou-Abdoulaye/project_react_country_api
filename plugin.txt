@@ -3,6 +3,7 @@ Plug-ins à installer pour coder plus vite :
 Simple React snippets
 Reactjs code snippets
 Mithril Emmet
+Mithril Emmet
 
 
 Dans settings.json, rajouter :
